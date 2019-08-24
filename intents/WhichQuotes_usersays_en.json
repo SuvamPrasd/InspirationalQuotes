@@ -1,0 +1,98 @@
+[
+  {
+    "id": "66d37a7b-1651-48d2-97c8-314af60f2828",
+    "data": [
+      {
+        "text": "say quote for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5687b5fd-7f9e-4bac-968e-def927b4da52",
+    "data": [
+      {
+        "text": "I want a quote",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d81b91f4-c640-4a91-953a-9cdc6e647d75",
+    "data": [
+      {
+        "text": "I want to see the quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b12b0df-74e7-4f61-a084-b0c5f4f6427d",
+    "data": [
+      {
+        "text": "send me quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03fb8a16-bc8c-4843-9636-20789e12b483",
+    "data": [
+      {
+        "text": "I am sad please send me quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de945a25-9a09-4822-aeb0-3b456dff4800",
+    "data": [
+      {
+        "text": "provide me quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cad34b6c-dd80-44b9-9f9e-5b6473d0b6d4",
+    "data": [
+      {
+        "text": "display quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ddbf648-b572-429d-b753-e24938414bc7",
+    "data": [
+      {
+        "text": "give me quotes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

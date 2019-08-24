@@ -1,0 +1,32 @@
+{
+  "id": "11c1d288-a692-441d-8230-dd2905228fa9",
+  "name": "WhichQuotes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "What type of  quote do you want ?",
+            "Which quote?",
+            "Quotes ?? But which type of quotes?",
+            "Define the type of quotes"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

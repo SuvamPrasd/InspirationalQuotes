@@ -1,0 +1,73 @@
+{
+  "id": "6caffda1-2ba6-4936-aba5-a57db6e9fe46",
+  "name": "Inspirational",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [
+        {
+          "name": "motivational",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "inspiratinal",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "himant",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9648d143-5cda-4b38-b1b3-400782487f27",
+          "required": true,
+          "dataType": "@TypeOfQuotes",
+          "name": "TypeOfQuotes",
+          "value": "$TypeOfQuotes",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me what type of quotes do you want ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "“The Way Get Started Is To Quit Talking And Begin Doing.”",
+            "“The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.”",
+            "“Don’t Let Yesterday Take Up Too Much Of Today.”",
+            "“You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.”",
+            "“It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.”",
+            "“If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.”",
+            "“People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.”",
+            "“Failure Will Never Overtake Me If My Determination To Succeed Is Strong Enough.”",
+            "“Entrepreneurs Are Great At Dealing With Uncertainty And Also Very Good At Minimizing Risk. That’s The Classic Entrepreneur.”",
+            "“We May Encounter Many Defeats But We Must Not Be Defeated.”"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}
